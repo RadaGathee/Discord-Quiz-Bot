@@ -4,4 +4,5 @@ Note- This is more of like the template with basic bot functions
 
 # An Example
 At times the bot is down
+
 ![Discord UI Image](https://github.com/RadaGathee/Discord-Quiz-Bot/blob/main/discordBotUI.png)
